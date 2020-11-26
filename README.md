@@ -1,6 +1,6 @@
 
 # SCRAPING ON OLX USING SELENIUM AND POSTGRESQL
-I developed a script for download text information and images from olx. I provide you a sql file where you can find all data that I extract for you, it might be used only for test. <br>
+I developed a script for download text information and images from olx. I provide you a sql file where you can find all data that I extract for you, it must be used only for test. <br>
 
 All data was obteined from this page
 <b>https://www.olx.com.pe/vehiculos_c362</b>
